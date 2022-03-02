@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anaik91
-- 👀 I’m interested in Cloud,Scripting , CICD
+- 👀 I’m interested in Cloud,Scripting , CICD , K8s , Apigee
 - 🌱 I’m currently learning everything that would help me
-- 💞️ I’m looking to collaborate on Python/GOlang based apps.
+- 💞️ I’m looking to collaborate on Python/Golang based apps.
 - 📫 How to reach me ashwinkumarnaik91@gmail.com
 
 <!---
